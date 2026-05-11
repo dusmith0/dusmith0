@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Dustin 📊
 
-<!--
-**dusmith0/dusmith0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**M.S. Statistical Data Science Candidate @ Texas A&M (Dec 2026)**
+*Mathematics & Statistics Educator | R, SAS, & Python Developer*
 
-Here are some ideas to get you started:
+### 🛠 Technical Toolkit
+* **Languages:** R (Advanced), SAS (Base Certified), Python, SQL, C++
+* **Specializations:** Time-Series Forecasting, Neural Networks, Climate Modeling
+* **Current Focus:** Developing `APStatTools` to bridge the gap between classroom theory and automated statistical computation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Featured Work
+* **Climate Impact Modeling:** Evaluating SARIMA vs. FFNN for global temperature anomalies.
+* **Statistical Engineering:** Building foundational ML algorithms (K-means, Regularized Regression) from the ground up.
+
+
