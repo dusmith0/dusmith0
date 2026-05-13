@@ -9,7 +9,8 @@
 * **Current Focus:** Developing `APStatTools` to bridge the gap between classroom theory and automated statistical computation.
 
 ### 🔬 Featured Work
-* **Climate Impact Modeling:** Evaluating SARIMA vs. FFNN for global temperature anomalies.
+* **Climate Anomaly Modeling:** Evaluating SARIMA vs. FFNN for global temperature anomalies.
+* **Climate Imparct on Water Resources** Employed temporal methods to forecast aquifer levels based on climate data
 * **Statistical Engineering:** Building foundational ML algorithms (K-means, Regularized Regression) from the ground up.
 
 
