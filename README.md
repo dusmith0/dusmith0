@@ -2,7 +2,7 @@
 ![Texas A&M](https://img.shields.io/badge/Texas%20A%26M-500000?style=flat-square&logo=academia&logoColor=white)
 
 **M.S. Statistical Data Science Candidate @ Texas A&M (Dec 2026)**
-*Mathematics & Statistics Educator | R, SAS, & Python Developer*
+*Statistical Programmer | R, SAS, & Python Developer*
 
 ### 🛠 Technical Toolkit
 * **Languages:** R (Advanced), SAS (Base Certified), Python, SQL, C++
