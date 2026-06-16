@@ -7,7 +7,7 @@
 ### 🛠 Technical Toolkit
 * **Languages:** R (Advanced), SAS (Base Certified), Python, SQL, C++
 * **Specializations:** Time-Series Forecasting, Neural Networks, Climate Modeling
-* **Current Focus:** Capstone Project -- Forcasting Cotton Abndonment in the West Texas Regions, Consulting Projects -- Clustering Penguin data
+* **Current Focus:** Capstone Project -- Forcasting Cotton Abndonment in the West Texas Regions
 
 ### 🔬 Featured Projects
 * **Climate Anomaly Modeling:** Evaluating SARIMA vs. FFNN for global temperature anomalies.
