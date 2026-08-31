@@ -7,9 +7,10 @@
 ### 🛠 Technical Toolkit
 * **Languages:** R (Advanced), SAS (Base Certified), Python, SQL, C++
 * **Specializations:** Time-Series Forecasting, Neural Networks, Climate Modeling
-* **Current Focus:** Capstone Project -- Forcasting Cotton Abndonment in the West Texas Regions
+* **Current Focus:** Bayes -- Chronic Kidney Disease Severity and Risk Factors
 
 ### 🔬 Featured Projects
+* **Modeling West Texas Cotton Abandonment** Assessed various climate splits for reliability in predicting Cotton Abandonment
 * **Climate Anomaly Modeling:** Evaluating SARIMA vs. FFNN for global temperature anomalies.
 * **Climate Impact on Water Resources** Employed temporal methods to forecast aquifer levels based on climate data
 * **Statistical Engineering:** Building foundational ML algorithms (K-means, Regularized Regression) from the ground up to master the underlying mathematics and nuances of machine learning. 
